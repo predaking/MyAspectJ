@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\FileExplorer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca1662d992042ecc8c42ddff7842cd9d4e479af9">
+        <dex dex="F:\FileExplorer-master\app\build\intermediates\pre-dexed\debug\instant-run_965cf4f239b90144f6c029bcf4be101313e0d374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\FileExplorer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8258537f1f6187beef5f96690e009b3f200dc48c">
+        <dex dex="F:\FileExplorer-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_688409897a05b609a9832437c1595c79238f86bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lw\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="F:\FileExplorer-master\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.9_bc19fb1f316a09d7fc0ba6c916a045a3403fc16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\FileExplorer-master\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="F:\FileExplorer-master\app\build\intermediates\pre-dexed\debug\android-support-v13_f5d35cbde668436571cd9e910a113e94e5f39e87.jar" />
+    </item>
+
+</items>
