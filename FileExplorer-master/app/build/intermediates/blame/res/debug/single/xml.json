@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\FileExplorer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\FileExplorer-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\FileExplorer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "F:\\FileExplorer-master\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]
